@@ -20,3 +20,9 @@ body {
   justify-content: space-between;
   padding: 2rem 1.5rem;
 }
+.logo {
+  color: #D4AF37;
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+  margin-bottom: 0.3rem;
+}
