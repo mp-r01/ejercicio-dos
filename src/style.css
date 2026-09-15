@@ -26,3 +26,59 @@ body {
   letter-spacing: 2px;
   margin-bottom: 0.3rem;
 }
+.subtitulo {
+  color: #9CA3AF;
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 2.5rem;
+}
+
+.menu-lateral nav ul {
+  list-style: none;
+}
+
+.menu-lateral nav ul li {
+  margin-bottom: 1.2rem;
+}
+
+.menu-lateral nav ul li a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.direccion {
+  color: #9CA3AF;
+  font-size: 0.75rem;
+}
+/* Columna derecha */
+.contenido-derecho {
+  width: 75%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+}
+/* Hero */
+.hero {
+  width: 100%;
+  height: 60%;
+  display: flex;
+  background-color: #1A1A1A;
+}
+
+.hero-texto {
+  width: 40%;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
