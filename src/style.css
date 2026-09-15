@@ -9,3 +9,14 @@ body {
   height: 100vh;
   font-family: Georgia, 'Times New Roman', serif;
 }
+/* Sidebar */
+.menu-lateral {
+  width: 25%;
+  height: 100%;
+  background-color: #111111;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem 1.5rem;
+}
