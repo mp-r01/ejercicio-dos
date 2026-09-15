@@ -128,3 +128,22 @@ main {
   color: #9CA3AF;
   font-size: 0.85rem;
 }
+/* Footer */
+footer {
+  width: 75%;
+  height: 20%;
+  background-color: #111111;
+  color: #9CA3AF;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  font-size: 0.75rem;
+}
+
+.footer-social a {
+  color: #D4AF37;
+  text-decoration: none;
+  margin-left: 1.5rem;
+  font-size: 0.75rem;
+}
