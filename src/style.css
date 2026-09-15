@@ -82,3 +82,49 @@ main {
   justify-content: center;
   padding: 2rem;
 }
+.hero-texto h2 {
+  color: #D4AF37;
+  font-size: 2rem;
+  line-height: 1.3;
+  margin-bottom: 1rem;
+}
+
+.hero-texto p {
+  color: #9CA3AF;
+  font-size: 0.95rem;
+}
+
+.hero-imagen {
+  width: 60%;
+}
+
+.hero-imagen img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/* Features */
+.features {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  background-color: #1A1A1A;
+  border-top: 2px solid #D4AF37;
+}
+
+.feature-box {
+  width: 50%;
+  padding: 2rem;
+  color: #FFFFFF;
+}
+
+.feature-box h3 {
+  color: #D4AF37;
+  font-size: 1.1rem;
+  margin-bottom: 0.8rem;
+}
+
+.feature-box p {
+  color: #9CA3AF;
+  font-size: 0.85rem;
+}
